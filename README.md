@@ -1,11 +1,5 @@
 # 📚 E-commerce de Livros (Bookstore)
 
-![Angular](https://shields.io)
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![DIO](https://shields.io)
-
 ## 📖 Sobre o Projeto
 
 Este projeto consiste em uma aplicação web de **E-commerce de Livros**, desenvolvida como parte de um desafio prático de bootcamp da **[Digital Innovation One (DIO)](https://dio.me "Digital Innovation One")**. 
